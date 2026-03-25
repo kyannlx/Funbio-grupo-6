@@ -3,4 +3,4 @@
 ## Integrantes
 - Wendy Iturria Zevallos - Micaela Hernandez Montoya -  Arianna Paucar Villcas  
 - Alfonso Peralta Cabello - Joaquin Monasterio Yarleque  - Jeferson Ortega Huaman
-![Foto grupal]()
+![Foto grupal](https://github.com/kyannlx/Funbio-grupo-6/blob/main/foto%20grupal.jpg)
