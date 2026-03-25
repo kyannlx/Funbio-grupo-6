@@ -1,3 +1,4 @@
+![logo pucp](https://www.grupolarabida.org/universidad/pontificia-universidad-catolica-del-peru-pucp-peru/)  ![logo upch](https://emedicina.upch.edu.pe/profesionalismo/codigo-de-conducta-profesional-para-profesores-y-alumnos)
 # **Grupo 6**
 
 ## Integrantes
