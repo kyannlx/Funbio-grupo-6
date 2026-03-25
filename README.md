@@ -1,10 +1,5 @@
-# Grupo 6
+# **Grupo 6**
 
 ## Integrantes
-
-1. Wendy Iturria Zevallos  
-2. Micaela Hernandez Montoya  
-3. Arianna Paucar Villcas  
-4. Alfonso Peralta Cabello  
-5. Joaquin Monasterio Yarleque  
-6. Jeferson Ortega Huaman
+- Wendy Iturria Zevallos - Micaela Hernandez Montoya -  Arianna Paucar Villcas  
+- Alfonso Peralta Cabello - Joaquin Monasterio Yarleque  - Jeferson Ortega Huaman
