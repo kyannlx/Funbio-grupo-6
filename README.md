@@ -1,7 +1,7 @@
 ![pucp_upch](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/11b298ef-4331-4d34-9643-bca3bb04df60)
 
 # **Grupo 6**
-
+Repositorio del grupo 6 del curso "Fundamentos de Biodiseño 2026-1" UPCH horario B402
 ## Integrantes
 - Wendy Iturria Zevallos - Micaela Hernandez Montoya -  Arianna Paucar Villcas  
 - Alfonso Peralta Cabello - Joaquin Monasterio Yarleque  - Jeferson Ortega Huaman
