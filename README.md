@@ -1,6 +1,5 @@
+![pucp_upch](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/11b298ef-4331-4d34-9643-bca3bb04df60)
 
-[logo pucp](https://www.grupolarabida.org/universidad/pontificia-universidad-catolica-del-peru-pucp-peru/) .
-[logo upch](https://emedicina.upch.edu.pe/profesionalismo/codigo-de-conducta-profesional-para-profesores-y-alumnos).
 # **Grupo 6**
 
 ## Integrantes
@@ -8,3 +7,4 @@
 - Alfonso Peralta Cabello - Joaquin Monasterio Yarleque  - Jeferson Ortega Huaman
 ![Foto grupal](https://github.com/kyannlx/Funbio-grupo-6/blob/main/foto%20grupal.jpg)
 <img src="https://raw.githubusercontent.com/kyannlx/Funbio-grupo-6/main/foto%20grupal.jpg" width="400">
+
