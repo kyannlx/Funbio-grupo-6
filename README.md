@@ -17,7 +17,7 @@ Repositorio del grupo 6 del curso "Fundamentos de Biodiseño 2026-1" UPCH horari
 
 | Wendy Iturria Zevallos | Micaela Hernandez Montoya | Arianna Paucar Villcas | 
 |:---:|:---:|:---:|
-| (Programación digital) | (Manufactura Digital) | (Prototipado Electrónico) |
+| (Programación digital) | (Manufactura Digital) | (Coordinadora general) |
 
 
 
@@ -25,7 +25,7 @@ Repositorio del grupo 6 del curso "Fundamentos de Biodiseño 2026-1" UPCH horari
 
 | Alfonso Peralta Cabello | Joaquin Monasterio Yarleque | Jeferson Ortega Huaman |
 |:---:|:---:|:---:|
-| (Diseño 3D) | (Diseño Electrónico y asistencia en programación) | (Coordinación general) |
+| (Diseño 3D) | (Diseño Electrónico y asistencia en programación) | (Prototipado electrónico) |
 |Encargado de realizar los diseños en 3D de los prototipos que se vayan realizando a lo largo del proyecto|Encargado del diseño del sistema electrónico, incluyendo la selección de componentes y la implementación de circuitos.|
 
 
