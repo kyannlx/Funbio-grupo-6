@@ -10,7 +10,6 @@ Repositorio del grupo 6 del curso "Fundamentos de Biodiseño 2026-1" UPCH horari
 - Joaquin Monasterio Yarleque  
 - Jeferson Ortega Huaman
 ![Foto grupal](https://github.com/kyannlx/Funbio-grupo-6/blob/main/foto%20grupal.jpg)
-<img src="https://raw.githubusercontent.com/kyannlx/Funbio-grupo-6/main/foto%20grupal.jpg" width="400">
 
 ## Presentación del equipo
 
