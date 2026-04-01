@@ -13,7 +13,6 @@ Repositorio del grupo 6 del curso "Fundamentos de Biodiseño 2026-1" UPCH horari
 
 ## Presentación del equipo
 
-
 | Wendy Iturria Zevallos | Micaela Hernandez Montoya | Arianna Paucar Villcas | 
 |:---:|:---:|:---:|
 | (Programación digital) | (Manufactura Digital) | (Coordinadora general) |
