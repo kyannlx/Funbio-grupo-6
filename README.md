@@ -26,7 +26,7 @@ Repositorio del grupo 6 del curso "Fundamentos de Biodiseño 2026-1" UPCH horari
 |:---:|:---:|:---:|
 | (Diseño 3D) | (Diseño Electrónico y asistencia en programación) | (Prototipado electrónico) |
 |Encargado de realizar los diseños en 3D de los prototipos que se vayan realizando a lo largo del proyecto|Encargado del diseño del sistema electrónico, incluyendo la selección de componentes y la implementación de circuitos y ocasionalmente asistencia a la programadora principal.|Encargado del ensamblaje del prototipo, incluyendo la impresión en 3D. También es responsable de montar los circuitos electrónicos a lo largo del proyecto.|
-| <img src="https://github.com/kyannlx/Funbio-grupo-6/blob/4b72df77e4497224413d8a40c44c2622112f89db/imagenes/IMG-20221102-WA0006.jpg" width="200" height="240"> |
+| < <img src="https://github.com/user-attachments/assets/327aaa39-edef-4334-ba6b-23ccd084292a" width="200" height="240"> |
 ## Problemática
 
 El paciente presenta una limitación severa del control de tronco, asociado a la escoliosis neuromuscular progresiva, incrementa el riesgo de deformidades estructurales mayores y limita significativamente su desarrollo funcional y su independencia. El objetivo del proyecto es mejorar la independencia del paciente respecto al problema descrito anteriormente, en un rango de tiempo de 3 meses o menos.
