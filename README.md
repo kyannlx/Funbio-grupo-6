@@ -18,7 +18,7 @@ Repositorio del grupo 6 del curso "Fundamentos de Biodiseño 2026-1" UPCH horari
 |:---:|:---:|:---:|
 | (Programación digital) | (Manufactura Digital) | (Coordinadora general) |
 |Encargada en la programación del sistema en el funcionamiento del prototipo.|Encargado del manejo de la tecnología digital para la mejora y optimización del proyecto.|Encargado de la actualizacion del Git y GitHub, a su vez el mantener una comunicacion entre los asesores y el equipo.|
-
+| <img src="https://github.com/kyannlx/Funbio-grupo-6/blob/18e6d78c803a513ca2c9a90fa22a56c9324d8381/imagenes/DSC_1935.jpg.jpeg" width ="200" height="240" > |
 
 
 
