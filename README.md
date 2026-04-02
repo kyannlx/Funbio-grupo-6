@@ -18,7 +18,7 @@ Repositorio del grupo 6 del curso "Fundamentos de Biodiseño 2026-1" UPCH horari
 |:---:|:---:|:---:|
 | (Programación digital) | (Manufactura Digital) | (Coordinadora general) |
 |Encargada en la programación del sistema en el funcionamiento del prototipo.|Encargado del manejo de la tecnología digital para la mejora y optimización del proyecto.|Encargado de la actualizacion del Git y GitHub, a su vez el mantener una comunicacion entre los asesores y el equipo.|
-| <img src="https://github.com/kyannlx/Funbio-grupo-6/blob/6f73b8ad49bb9f36bbe7f28cc03d491a9438dea3/imagenes/20250521_175156.jpg" width="200" height="240"> | <img src="https://github.com/kyannlx/Funbio-grupo-6/blob/18e6d78c803a513ca2c9a90fa22a56c9324d8381/imagenes/IMAGEN MICAELA.jpg.jpeg" width ="200" height="240" > | <img src="https://github.com/kyannlx/Funbio-grupo-6/blob/9b7e953eb6968d55910441ee1b96361104f271ed/imagenes/WhatsApp%20Image%202026-04-01%20at%202.23.59%20PM.jpeg" width="200" height="240" > |
+| <img src="https://github.com/kyannlx/Funbio-grupo-6/blob/6f73b8ad49bb9f36bbe7f28cc03d491a9438dea3/imagenes/20250521_175156.jpg" width="200" height="240"> | <img src="https://github.com/kyannlx/Funbio-grupo-6/blob/18e6d78c803a513ca2c9a90fa22a56c9324d8381/imagenes/IMAGEN MICAELA.jpeg" width ="200" height="240" > | <img src="https://github.com/kyannlx/Funbio-grupo-6/blob/9b7e953eb6968d55910441ee1b96361104f271ed/imagenes/WhatsApp%20Image%202026-04-01%20at%202.23.59%20PM.jpeg" width="200" height="240" > |
 
 
 
