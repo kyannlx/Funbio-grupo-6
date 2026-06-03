@@ -1,1 +1,1 @@
-MiCarpeta/archivo.txt
+DiseñoEstructura/archivo.txt
